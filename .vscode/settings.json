@@ -1,0 +1,6 @@
+{
+  "tslint.autoFixOnSave": true,
+  "editor.codeActionsOnSave":{
+    "source.fixAll.tslint": true
+  }
+}
